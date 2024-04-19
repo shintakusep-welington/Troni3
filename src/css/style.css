@@ -109,8 +109,8 @@ body {
     display: grid;
     grid-template-columns: 1fr 1fr;
     background-color: aliceblue;
-    width: 100%;
-    height: 100%;
+    /* width: 100%;
+    height: 100%; */
     /* background-image: radial-gradient(circle, rgb(255, 0, 238), transparent 30%, #ffc600);
    background-size: cover;
    background-repeat: no-repeat;
